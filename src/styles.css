@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.password {
+  margin: 6rem auto;
+  color: orangered;
+  font-size: 3rem;
+  width: 100%;
+  height: 15%;
+  background-color: gray;
+}
